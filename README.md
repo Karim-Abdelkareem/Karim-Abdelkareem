@@ -50,14 +50,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karim-Abdelkareem&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karim-Abdelkareem&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karim-Abdelkareem&theme=radical&hide_border=true" height="170" alt="Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karim-Abdelkareem&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karim-Abdelkareem&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" height="150" alt="Top Languages"/>
 </div>
-
 ---
 
 ### 🏆 Achievements
