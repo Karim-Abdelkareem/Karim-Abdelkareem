@@ -57,6 +57,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karim-Abdelkareem&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" height="150" alt="Top Languages"/>
 </div>
+
 ---
 
 ### 🏆 Achievements
