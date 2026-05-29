@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Karim-Abdelkareem.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #00FF9F;" alt="Karim Abdelkareem"/>
+  <img src="https://github.com/Karim-Abdelkareem.png" width="180" height="180" style="border-radius: 50%; border: 5px solid #00FF9F;" alt="Karim Abdelkareem"/>
 </div>
 
 <div align="center">
@@ -50,12 +50,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karim-Abdelkareem&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="170" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karim-Abdelkareem&theme=dracula&hide_border=true" height="170" alt="Streak"/>
+  <a href="https://github.com/Karim-Abdelkareem">
+    <img src="https://github-readme-stats.vercel.app/api?username=Karim-Abdelkareem&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Stats"/>
+  </a>
+  <a href="https://github.com/Karim-Abdelkareem">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karim-Abdelkareem&theme=dracula&hide_border=true&date_format=M%20j%2C%20Y" alt="Streak"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karim-Abdelkareem&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karim-Abdelkareem&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 ---
