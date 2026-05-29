@@ -50,19 +50,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karim-Abdelkareem&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karim-Abdelkareem&theme=radical&hide_border=true" height="170" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karim-Abdelkareem&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="170" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karim-Abdelkareem&theme=dracula&hide_border=true" height="170" alt="Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karim-Abdelkareem&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karim-Abdelkareem&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800" height="150" alt="Top Languages"/>
 </div>
 
 ---
 
 ### 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=Karim-Abdelkareem&theme=radical&column=4&margin-w=15&no-bg=true)
+![](https://github-profile-trophy.vercel.app/?username=Karim-Abdelkareem&theme=dracula&column=4&margin-w=15&no-bg=true)
 
 ---
 
@@ -70,11 +70,11 @@
 
 **Check out my best projects:**
 
-- **[Golden-Beit](https://github.com/Karim-Abdelkareem/Golden-Beit)** — Modern Real Estate / Property Platform
-- **[MONO-MAIN](https://github.com/Karim-Abdelkareem/MONO-MAIN)** — Advanced Full-Stack Application (Next.js)
+- **[Golden-Beit](https://github.com/Karim-Abdelkareem/Golden-Beit)** — Modern Real Estate Platform
+- **[MONO-MAIN](https://github.com/Karim-Abdelkareem/MONO-MAIN)** — Advanced Full-Stack Application
 - **[Udemy-Next.JS-UI](https://github.com/Karim-Abdelkareem/Udemy-Next.JS-UI)** — Beautiful Udemy Clone with Next.js
 - **[Portofolio](https://github.com/Karim-Abdelkareem/Portofolio)** — Personal Portfolio Website
-- **[Donation-Frontend](https://github.com/Karim-Abdelkareem/Donation-Frontend)** — Charity / Donation Platform Frontend
+- **[Donation-Frontend](https://github.com/Karim-Abdelkareem/Donation-Frontend)** — Charity Donation Platform
 - **[newmark](https://github.com/Karim-Abdelkareem/newmark)** — Modern Web Application
 
 ---
