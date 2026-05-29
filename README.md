@@ -68,12 +68,14 @@
 
 ### 🔥 Featured Projects
 
-**Check out my pinned repositories below!**
+**Check out my best projects:**
 
-- **[Udemy Admin Dashboard](https://github.com/Karim-Abdelkareem/Udemy-Admin-Dashboard)** — Advanced admin panel
-- **[Udemy Clone](https://github.com/Karim-Abdelkareem/udemy-clone)** — Full learning platform
-- **[Simple E-Commerce](https://github.com/Karim-Abdelkareem/Simple-E-Commerce)** — Amazon-style store
-- **[Codementor Clone](https://github.com/Karim-Abdelkareem/Codementor)** — Mentoring platform
+- **[Golden-Beit](https://github.com/Karim-Abdelkareem/Golden-Beit)** — Modern Real Estate / Property Platform
+- **[MONO-MAIN](https://github.com/Karim-Abdelkareem/MONO-MAIN)** — Advanced Full-Stack Application (Next.js)
+- **[Udemy-Next.JS-UI](https://github.com/Karim-Abdelkareem/Udemy-Next.JS-UI)** — Beautiful Udemy Clone with Next.js
+- **[Portofolio](https://github.com/Karim-Abdelkareem/Portofolio)** — Personal Portfolio Website
+- **[Donation-Frontend](https://github.com/Karim-Abdelkareem/Donation-Frontend)** — Charity / Donation Platform Frontend
+- **[newmark](https://github.com/Karim-Abdelkareem/newmark)** — Modern Web Application
 
 ---
 
